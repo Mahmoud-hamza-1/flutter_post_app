@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "authorName": "Mike Chen",
+      "authorAvatar": "https://i.pravatar.cc/100?img=1",
+      "title": "The Future of Web Development",
+      "body": "Web development is evolving rapidly with new frameworks and tools emerging every day. Staying up to date is crucial for modern developers.",
+      "createdAt": "2025-10-13T18:45:00Z",
+      "commentsCount": 1
+    },
+    {
+      "id": 2,
+      "authorName": "Emily Davis",
+      "authorAvatar": "https://i.pravatar.cc/100?img=2",
+      "title": "Best Practices for API Design",
+      "body": "Designing RESTful APIs requires careful consideration of endpoints, HTTP methods, and clear documentation.",
+      "createdAt": "2025-10-12T10:30:00Z",
+      "commentsCount": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "authorName": "Pat Wilson",
+      "body": "The pace of change can be overwhelming sometimes!",
+      "createdAt": "2025-10-13T19:30:00Z"
+    }
+  ]
+}
